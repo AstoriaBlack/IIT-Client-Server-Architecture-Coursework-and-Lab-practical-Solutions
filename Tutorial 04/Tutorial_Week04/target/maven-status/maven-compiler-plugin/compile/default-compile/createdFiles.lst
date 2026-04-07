@@ -1,0 +1,5 @@
+com\mycompany\tutorial_week04\SimpleHttpServer$RootHandler.class
+com\mycompany\tutorial_week04\SimpleHttpServer$EchoHandler.class
+com\mycompany\tutorial_week04\SimpleHttpServer.class
+com\mycompany\tutorial_week04\SimpleHttpServer$StatsHandler.class
+com\mycompany\tutorial_week04\SimpleHttpServer$GreetHandler.class
